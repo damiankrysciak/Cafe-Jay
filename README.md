@@ -4,7 +4,7 @@ hausregeln.html : the house rules of the fictional Cafe Jay
 
 home.html : the home page
 
-impressum.html : a fictional adress and contact details
+impressum.html : a fictional address and contact details
 
 kontakt.html : contact form
 
